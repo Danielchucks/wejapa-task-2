@@ -1,0 +1,12 @@
+{
+  "name": "wejapa-task-2",
+  "version": "1.0.0",
+  "description": "Note App that allows one to create and read a note",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Daniel Chukwuma",
+  "license": "MIS"
+}
